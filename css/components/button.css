@@ -1,0 +1,27 @@
+.btn-red{
+  background-color: #ff5a5f;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 3px;
+}
+
+.btn-red:hover{
+  text-decoration: none;
+  color: white;
+  background-color: #FF7E82;
+
+}
+
+.btn-white{
+  background-color: rgba(255, 255, 255, 0.5);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 3px;
+}
+
+.btn-white:hover{
+  text-decoration: none;
+  color: white;
+  background-color: rgba(100, 100, 100, 0.5);
+
+}

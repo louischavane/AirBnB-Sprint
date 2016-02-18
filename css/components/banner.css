@@ -1,0 +1,14 @@
+.banner{
+  background-image: url("../../images/banner.png");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  margin-top:-80px;
+}
+
+.banner-content{
+  text-align: center;
+}

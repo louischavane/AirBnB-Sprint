@@ -2,23 +2,34 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
 
 /* --- Components design --- */
-/* @import url("components/avatar.css"); */
-/* @import url("components/button.css"); */
-/* @import url("components/dropdown.css"); */
-/* @import url("components/card.css"); */
-/*  @import url("components/navbar.css"); */
-/* @import url("components/banner.css"); */
+ @import url("components/avatar.css");
+ @import url("components/button.css");
+ @import url("components/card.css");
+ @import url("components/icon.css");
+ @import url("components/navbar.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
 
 
 
 /* --- Fonts --- */
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
-  padding-bottom: 200px;
   background-color: #EDEFED;
   color: #565A5C;
 }
 h1, h2, h3 {
   font-family: "Montserrat", "sans-serif";
 }
+
+.padded{
+  padding-top: 30px;
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+
 

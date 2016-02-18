@@ -1,0 +1,40 @@
+.navbar-airbnb{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  height:80px;
+  color: white;
+}
+
+#logo{
+  width: 50px;
+  margin-left:  50px;
+}
+
+
+.navbar-airbnb-right{
+  margin-right: 50px;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.navbar-airbnb-right a {
+  padding: 20px;
+  color: white;
+}
+
+.navbar-airbnb-right a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-airbnb-icon{
+  font-size:25px;
+}
+
+.narvar-airbnb-avatar{
+  margin-left: 100px;
+}
+
